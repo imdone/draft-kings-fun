@@ -94,7 +94,7 @@ POSITIONS = {
         ],
         'MLB': [
             ['P', 1, 1],
-            ['1B', 1, 2],  # TODO - allow C or 1B
+            ['1B', 1, 2],  # TODO - allow C or 1B id:4
             ['2B', 1, 2],
             ['3B', 1, 2],
             ['SS', 1, 2],

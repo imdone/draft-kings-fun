@@ -18,7 +18,7 @@ def add_pickem_contraints(query_args):
     def filter_fn(player):
         if not query_args:
             return True
-        # TODO - add team banning
+        # TODO - add team banning id:9
         kwargs = {'player': player, 'query_args': query_args}
         return (
             _is_above_projected_points(**kwargs) and

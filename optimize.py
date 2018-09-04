@@ -47,7 +47,7 @@ def run(league, args, existing_rosters=None):
 
     all_players = retrieve_players(args)
 
-    # TODO - add NFL for FanDuel
+    # TODO - add NFL for FanDuel id:3
     if args.league == 'NFL':
         flex_args = {}
         if args.no_double_te == _YES:
