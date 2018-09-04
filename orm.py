@@ -20,7 +20,7 @@ def retrieve_all_players_from_history(args):
 
     all_players = []
 
-    # TODO - remove and allow retrieval from DB
+    # TODO - remove and allow retrieval from DB id:11
     historical_datetime = datetime.strptime(args.historical_date, '%Y-%m-%d')
     historical_date = date(
         historical_datetime.year,

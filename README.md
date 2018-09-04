@@ -1,3 +1,5 @@
+[![TODO board](https://imdone.io/api/1.0/projects/5b8e86619fb4c13a83e29c30/badge)](https://imdone.io/app#/board/imdone/draft-kings-fun)
+
 ## Introduction &middot; [![Build Status](https://travis-ci.org/BenBrostoff/draft-kings-fun.svg?branch=master)](https://travis-ci.org/BenBrostoff/draft-kings-fun) &middot; [![](https://draftfast.herokuapp.com/badge.svg)](https://draftfast.herokuapp.com/) &middot; [![](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/user?u=8965834)
 
 ![](marketing/NBA_OPTIMIZED.png)

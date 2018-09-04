@@ -89,7 +89,7 @@ def review_past(file_loc, banned):
     :param banned: Players to not include (injured or missed game)
     '''
 
-    # FIXME - this will retrieve data from S3 and store in
+    # FIXME - this will retrieve data from S3 and store in id:6
     # an in-memory DB. After running this function once on a
     # given day, the data should persist.
     c = client.DraftKingsHistory()
