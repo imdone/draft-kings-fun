@@ -1,4 +1,5 @@
 # TODO - convert this to a dict and use same strategy as NFL id:1
+# - <https://github.com/imdone/draft-kings-fun/issues/3>
 RENAMES = [
     {'dk_name': 'Maurice Harkless', 'name': 'Moe Harkless'},
     {'dk_name': 'Larry Nance Jr.', 'name': 'Larry Nance'},
